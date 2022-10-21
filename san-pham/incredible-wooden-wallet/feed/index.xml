@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/incredible-wooden-wallet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://do1902.github.io/mywordpress/san-pham/incredible-wooden-wallet/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 03:47:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 14:24:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
